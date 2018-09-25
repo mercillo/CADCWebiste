@@ -1,0 +1,29 @@
+/* member.css */
+
+.name {
+	font-size: 1.5em;
+	display: inline-block;
+	background: rgba(33, 33, 33, 0.9);
+	color: #f8f8f8;
+	padding: 5px 10px;
+	border-radius: 5px;
+	bottom: 0px;
+	position: relative;
+	text-shadow: 0.1em 0.1em 0.05em #333;
+}
+
+/*ul.gallery li{
+	display: block;
+	float: left;
+	height: 180px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	overflow: hidden;
+	position: relative;
+	width: 190px;
+}
+
+.members {
+	margin: 0 auto;
+}
+*/
