@@ -1,0 +1,48 @@
+.navbar-inverse .navbar-brand{
+    color:white;
+}
+
+.headerSection{
+        /* The image used */
+        background-image: url("../images/CADCXXV_600h.jpg");
+
+        /* Set a specific height */
+        height: 600px; 
+    
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color:white;
+}
+
+.navbar{
+    margin-bottom:0px;
+}
+
+#headerSection{
+    background-color:white;
+    padding-left:0;
+    padding-right:0;
+}
+
+.dcCover{
+    margin:0 auto;
+
+}
+
+#aboutUs{
+    background-color:black;
+    color:white
+}
+
+.aboutTextContainer{
+    padding-top:15%;
+}
+
+.youtubeVideo{
+    padding:10%;
+}
